@@ -1,4 +1,12 @@
-### Hi there 👋
+yo
+idk what to put here
+uh i'm a moron
+a furry
+pansexual
+
+uh idk man
+
+https://catto24.github.io/aboutme.html
 
 <!--
 **catto24/catto24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
