@@ -1,24 +1,9 @@
-yo
-idk what to put here
-uh i'm a moron
-a furry
-pansexual
+name's Mason
+a minor, and a furry
+average capital letter hater
+tech-savvy, into digital art/animation
 
-uh idk man
+that's about it
 
-https://catto24.github.io/aboutme.html
-
-<!--
-**catto24/catto24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+here's my cat:
+![IMG_20240831_151617](https://github.com/user-attachments/assets/38162a2e-24c4-4342-9b42-a5c616701fb2)
