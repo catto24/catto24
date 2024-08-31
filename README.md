@@ -1,9 +1,9 @@
-name's Mason
-a minor, and a furry
-average capital letter hater
-tech-savvy, into digital art/animation
-
-that's about it
-
-here's my cat:
-![IMG_20240831_151617](https://github.com/user-attachments/assets/38162a2e-24c4-4342-9b42-a5c616701fb2?width=640&height=460)
+name's Mason  
+a minor, and a furry  
+average capital letter hater  
+tech-savvy, into digital art/animation  
+  
+that's about it  
+  
+here's my cat:  
+![RESIZED](https://github.com/user-attachments/assets/6f8883af-0337-4d7d-af34-8bdbd8d43b7c)
