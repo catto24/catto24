@@ -5,5 +5,5 @@ tech-savvy, into digital art/animation
   
 that's about it  
   
-here's my cat:  
-![RESIZED](https://github.com/user-attachments/assets/6f8883af-0337-4d7d-af34-8bdbd8d43b7c)
+here's my cat:  ![RESIZED-1440](https://github.com/user-attachments/assets/5b07eede-cdac-4ff8-bbdf-664f932e7239)
+
