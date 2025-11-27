@@ -1,9 +1,6 @@
-name's Mason  
-a minor, and a furry  
-average capital letter hater  
+a minor and a furry  
 tech-savvy, into digital art/animation  
+don't know any languages but HTML and CSS and don't have the motivation to learn another despite wanting to
+also don't know where i'd even start...
   
-that's about it  
-  
-here's my cat:  
-![RESIZED-720](https://github.com/user-attachments/assets/41368f4d-921f-4b40-8485-147d6f0bf08d)
+that's about it
